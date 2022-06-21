@@ -9,7 +9,8 @@
 <img  width="22" src="https://unpkg.com/simple-icons@v7/icons/linkedin.svg" />
 </a> -->
 
-:computer: Skills:MsSQL /MySQL /PhpMYAdmin  Php /Laravel /Symfony / JavaScript /React.js / C# /  ASP.NET / .NET MVC 
+
+:computer: MsSQL /MySQL /PhpMYAdmin  Php /Laravel /Symfony / JavaScript /React.js / C# /  ASP.NET / .NET MVC 
 
 ##Tech I use
 
@@ -32,5 +33,4 @@
 
 <summary>
 <img src="https://github-readme-stats.vercel.app/api?username=NurullahDemirel&hide=contribs,prs" style="margin-top: 10px" />
-
 
