@@ -21,8 +21,6 @@
 <img align="left" alt="Php" style="width: 30px; max-width: 100%;" src="https://github.com/siberfx/siberfx/raw/main/icons/php.jpg">
 <img align="left" alt="Symfony" style="width: 30px; max-width: 100%;" src="https://github.com/siberfx/siberfx/raw/main/icons/symfony.png">
 
-
-##Tools and Programs:
 <img align="left" alt="PhpStorm" style="width: 30px; max-width: 100%; margin-left:5px" src="https://github.com/siberfx/siberfx/raw/main/icons/phpstorm.png" >
 <img align="left" alt="PostMan" style="width: 30px; max-width: 100%;margin-left:5px" src="https://github.com/siberfx/siberfx/raw/main/icons/postman.png">
 <img align="left" alt="WebStorm" style="width: 30px; max-width: 100%;margin-left:5px" src="https://github.com/siberfx/siberfx/raw/main/icons/webstorm.png">
